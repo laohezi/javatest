@@ -1,0 +1,4 @@
+rootProject.name = 'javatest'
+
+
+enableFeaturePreview('GRADLE_METADATA')
